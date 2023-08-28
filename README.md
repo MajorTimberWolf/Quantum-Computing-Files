@@ -8,6 +8,9 @@ Quantum Computing is a technology being developed which is able to capture and u
 **This repository demonstrates the capability of Quantum Computers using user-defined and module-defined algorithms.**
 
 
+
+
+
 ## Installation
 
 Ensure that Conda is pre-installed before cloning the project. Create a virtual environment using the below commands. *Conda can be installed via the [Official Page](https://docs.conda.io/en/main/miniconda.html)*
@@ -18,31 +21,32 @@ Ensure that Conda is pre-installed before cloning the project. Create a virtual 
     conda install python=3.x
 ```
 
+
     
 ## Run Locally
 
 Clone the project
 
 ```bash
-    git clone https://link-to-project
+  git clone https://link-to-project
 ```
 
 Go to the project directory
 
 ```bash
-    cd my-project
+  cd my-project
 ```
 
 Install dependencies
 
 ```bash
-    pip install qiskit
+  pip install qiskit
 ```
 
 Running all cells
 ```
-    ctrl+a [Select all cells]
-    shift+enter [Runs all selected cells]
+  ctrl+a [Select all cells]
+  shift+enter [Runs all selected cells]
 ```
 
 ## Acknowledgements
